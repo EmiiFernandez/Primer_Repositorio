@@ -1,2 +1,5 @@
 Donde llegará la informatica en los proximos 10 años?
+<<<<<<< HEAD
 Parrafo escrito por Partipante A
+=======
+>>>>>>> parent of 4f9325c (Haciendo cambios participante b)
